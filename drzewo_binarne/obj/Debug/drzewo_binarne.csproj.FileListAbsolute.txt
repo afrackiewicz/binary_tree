@@ -1,0 +1,7 @@
+C:\Users\Ania\source\repos\drzewo_binarne\drzewo_binarne\bin\Debug\drzewo_binarne.exe.config
+C:\Users\Ania\source\repos\drzewo_binarne\drzewo_binarne\bin\Debug\drzewo_binarne.exe
+C:\Users\Ania\source\repos\drzewo_binarne\drzewo_binarne\bin\Debug\drzewo_binarne.pdb
+C:\Users\Ania\source\repos\drzewo_binarne\drzewo_binarne\obj\Debug\drzewo_binarne.csprojAssemblyReference.cache
+C:\Users\Ania\source\repos\drzewo_binarne\drzewo_binarne\obj\Debug\drzewo_binarne.csproj.CoreCompileInputs.cache
+C:\Users\Ania\source\repos\drzewo_binarne\drzewo_binarne\obj\Debug\drzewo_binarne.exe
+C:\Users\Ania\source\repos\drzewo_binarne\drzewo_binarne\obj\Debug\drzewo_binarne.pdb
